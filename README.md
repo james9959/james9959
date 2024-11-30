@@ -3,7 +3,6 @@
 🔭 I’m currently working on youtube url convert summary
 I’m looking for help with ppl
 >🌱 I’m currently learning js💬
-⚡ Fun fact
 
 
 ## 🌐 Socials:
